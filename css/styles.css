@@ -1,0 +1,33 @@
+body {
+  
+
+}
+img{
+
+}
+hr {
+  margin-top: 15px;
+  border-style: solid none none none;
+  border-color: #00A8CC;
+  border-width: 5px;
+  width: 60%;
+
+}
+
+h1, h2, h4{
+  font-family: "Comic Sans";
+  color: #00A8CC;
+
+
+}
+
+p, ul{
+  font-family: "Arial";
+  color: #191919;
+}
+
+a{
+  font-family: "Comic Sans MS";
+  color: #BB6464;
+  margin: 5px;
+}
